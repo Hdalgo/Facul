@@ -1,0 +1,31 @@
+head {
+
+    background-color: red;
+    Font-size:20px;
+    text-justify: auto;
+
+}
+
+.um {
+    background-color:red;
+    padding-left: 12;
+    margin: 12px;
+    FONT-SIZE:20PX;
+    height: 200px;
+}
+
+.dois {
+
+color: black;
+padding: 20px;
+margin:20;
+height: 100px;
+}   
+
+table {
+border:"0px";
+padding-right:"50px";
+
+
+
+}

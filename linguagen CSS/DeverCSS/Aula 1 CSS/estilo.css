@@ -1,0 +1,43 @@
+
+
+.L
+    {
+        background-color:#fff;
+    }
+    .N {
+    font-weight:bold;
+    }  
+    td {
+        width: 90pt;
+        height:30pt;
+        border: 1px solid #00F;
+    }
+    .TL {  
+        text-align:left
+     }
+     .Tc {
+         text-align:center;
+     }
+     .TR{
+         text-align:right;
+             }
+    .VT{
+        vertical-align: top;
+    
+    }
+    .VM{
+        vertical-align:middle ;
+    }
+    .VB{
+        vertical-align: bottom;
+    }
+
+body
+{
+
+    background-color:black;
+    padding:0px;
+    margin:0px ;
+    font: normal 10 pt sans-serif;
+    color:#fff;
+}
