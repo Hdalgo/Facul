@@ -1,0 +1,21 @@
+h3:focus {
+
+Background: #ccc
+
+}
+p:focus {
+
+outline: 2px dotted blue;
+
+}
+li:nth-child(1):focus{
+
+color: green
+
+}
+Li:nth-child(2):focus {
+
+font-size: 150%;
+
+}
+

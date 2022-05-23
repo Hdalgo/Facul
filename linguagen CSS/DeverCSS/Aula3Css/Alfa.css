@@ -1,0 +1,5 @@
+nav { Position: fixed;top:0; left:0;}
+div { width: 400px;margin-left: 130px;text-align: justify;  }
+#home:target {color:white; background:black;}
+#portifolio:target {color:green; border: 2px solid red;   }
+#contato:target {text-shadow: 1px 1px 2px orange;     }

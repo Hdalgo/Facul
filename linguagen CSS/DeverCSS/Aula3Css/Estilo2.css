@@ -1,0 +1,7 @@
+input:enabled { background:papayawhip ; border:1px solid salmon;}
+textarea:enabled { background: ivory;border: 1px solid gold }
+input:disabled  { background: aliceblue; border: 1px solid gray   }
+textarea:disabled {background: aliceblue; border: 1px solid grey    ;}
+
+
+.um{ background:moccasin ;}
