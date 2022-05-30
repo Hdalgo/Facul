@@ -1,0 +1,41 @@
+.uno {
+
+font-size: 12px;
+font-style: verdana;
+color:red;
+line-height: 2;
+}
+
+.dos {
+
+font-style:Arial ;
+color:red
+
+}
+
+.grid {
+
+display: grid;
+background-color: red;
+
+
+
+
+}
+.item {
+
+margin: 4px;
+background:rgb(247, 210, 5);
+font-size: 1.5em;
+padding: 5px;
+color:red
+
+}
+
+.table {
+
+height: 100px;
+font-weight: 100px;
+border: 12px;
+
+}
